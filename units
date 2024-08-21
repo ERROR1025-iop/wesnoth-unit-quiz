@@ -1,0 +1,52 @@
+[Drake Flameheart]
+tag:Dreak;Leader;Fight;Fly[0.5]
+Flamehearts lack the strength to defeat other high-ranking drakes in single combat, but prefer in any case to avoid confrontation within the tribe. Experience has taught any drake of this stature the extent of his authority: where he can push those he leads and when it is best to leave them to their own devices. Only occasionally will a Flameheart challenge his tribe's leader for supremacy, and only if he is sure of the support of his fellow drakes.
+[Hurricane Drake]
+tag:Fly
+Hurricane Drakes have moved above the menial hunting and gathering to which the lower members of their caste are relegated. They are an integral part of the drakes' military, scouting ahead of the main forces, carrying messages across the battlefield, and falling upon the enemy where it's least expected. Being allowed—grudgingly—to train with the newcomers from other castes has increased their skill in combat, but their greatest strength still lies in their speed and flight. 
+[Dwarvish Arcanister]
+tag:Dwarve;Iron like;Mugic;Melee
+The most powerful of all the runecrafters, the Dwarvish Arcanister destroys wounded enemies almost instantly, and rarely fails to cause a wound when that is his intent. His skill in runecrafting is unrivaled, and the glyphs he carves into his weapons and armor deflect the blows of his enemies.
+[Dwarvish Lord]
+tag:Dwarve;Lord;Melee
+Clad in shining armor, these dwarves look like kings from under the mountains. They wield axe and hammer with masterful skill, and can hit a target with a thrown hand axe at several paces. Though slow on their feet, these dwarves are a testament to the prowess of their kin.
+[Dwarvish Sentinel]
+tag:Dwarve;Defence
+Champions among their fellow troops, the dwarven sentinels form the bulwark of their battle lines. Leading a direct assault against a line that they fortify, is often out of the question; it tends toward being suicidal, rather than merely ineffectual. Equipped with the strongest of Knalgan armor, these dwarves are masters of the melee and can hold a patch of earth with the single-minded tenacity of an oak.
+[Dwarvish Dragonguard]
+tag:Dwarve;Gun;Range
+It is not clear why the Dragonguards are called what they are, a name given by their dwarven brethren. Some speculate that the name comes from their weapon of choice, these strange staves that belch fire and death. Others have surmised that it is because such weapons would be a threat against even a true Dragon, should such a thing be seen again in the known world. Whatever the case, it is for these weapons that the guardians of the great Dwarven citadels are both renowned and feared; weapons that have broken the mightiest of warriors with a single blow.
+[Dwarvish Berserker]
+tag:Dwarve;Mad;Melee[2]
+Berserkers are a rare caste of Dwarves, who work themselves into a towering rage before combat. These warriors disdain all notion of defense, thinking only of the unrelenting assaults for which they are legendary.
+[Elvish Sharpshooter]
+tag:Elf;Bom;Range;Accurate
+Though not a formal title, 'Sharpshooter'is the epithet given to the most gifted Elvish marksmen. These expert archers are capable of feats that, even by Elven standards, border on miraculous — they have the precision to split incoming arrows midair and can loose a second arrow before the first hits, all while maintaining enough power to damage full plate armor. A single volley of their arrows is enough to bring down a knight on horseback, and even heavily-armored infantry will survive few additional shots. The sharpshooters of the elves have honed their art to its highest form and are the undisputed masters of archery.
+[Elvish Avenger]
+tag:Elf;Bom;Hide
+The curious name of the Elvish ‘Avengers' comes from a tactic often employed by these master rangers. The enemy is allowed to break through a feint defense and when the vulnerable troops behind the front line follow, these archers break cover and attack, cutting supply lines and surrounding the enemy in one fell stroke. This has, at times, been interpreted as a form of vengeance for their brethren lost earlier in the battle. While not so base in design, it is not at all inaccurate.
+[Elvish Marshal]
+tag:Elf;Leader
+Elves are not often the instigators of open war, but will not shy away when the time comes to do battle. To this end, they maintain a small number of strategically-minded marshals at all times. Selected from the most talented patrol captains, these commanders undergo extensive training in various military styles, including those of the humans and orcs. They are unorthodox, but brilliant strategists who excel at breaking down large battlefronts into smaller skirmishes, transforming ordinary campaigns into dispersed guerrilla warfare. Engaging elves in their own homes is a daunting task for any invasion force, precisely because of the skillful maneuvering of the marshals who are entrusted with the protection of their people.
+[Elvish Champion]
+tag:Elf;Mad
+Elves are typically peaceable by nature and most will attack only in retaliation for some wrongdoing wrought upon them. However, there are some elves who deliberately seek battle, purposeful or otherwise, for their own enjoyment. Through constant combat, these warriors either learn to hone their swordsmanship to a level far beyond most of their peers or perish in the volatile frenzy of melee. Those capable of persisting eventually grow skilled enough to wholly conquer the battlegrounds, becoming veritable champions of war as they mercilessly cut through their foes. Having spent their whole lives refining their prowess with the blade, these elves are exceptionally dangerous and should never be underestimated.
+[Elvish High Lord]
+tag:Elf;Mugic;Lord
+While the duality of Elven magic manifests itself most strongly in the split paths between the corporeal and arcane worlds, the same dichotomy is reflected in the ranks of Elven nobility. In part due to their use of faerie fire, most lords find themselves strongly aligned with enchantresses, thus associating themselves with the aspects of insight and destruction. Though not the same thing as wisdom, a lord's intuition is usually to be respected, and his wrath, feared. This only grows more true with age, as time brings acuity to the elf's mind and senses.Outsiders' notions that an upper class of 'High Lords' exists is usually a fallacy resulting from the great disparity in both perception and power that these experienced elves possess. In actuality, the hierarchy of Elvish rule differs between enclaves and situationally between times of peace and war. The only thing that can be said for certain is that the acumen of these lords is invaluable for maintaining the prosperity of Elvish rule, whether or not they sit at the top of the chain of command.
+[Elvish Shyde]
+tag:Elf;Cure;Nature
+As an elf maiden entwines herself more and more with nature, the essence of earth begins to transform her body. The butterfly wings that sprout on the back of a Shyde are a direct manifestation of her connection to the faerie, granting her their characteristic ethereal aura of both serenity and fear. Shydes are masters of the mundane, guided by a power which is little understood, yet greatly respected by others of their kind. Often mistaken for true faerie or ‘forest spirits', these stewards of the forests epitomize their people's mysterious connection with the natural order.
+[Elvish Sylph]
+tag:Elf;Mugic;Iron weak[512];Range
+Tremendously powerful in unfathomable ways, the sage-like Sylphs are masters of manipulating the bridge between the mundane and arcane worlds. Long years spent peering into the ethereal realm have eroded the ability of these elves to view the physical world; in return, they are granted an abstract sight, gaining the ability to view one or even several different aspects of reality’s essence. Like the many shards of a broken mirror, the myriad fractures of the material world reflect the light of the arcane through its many different facets. Careful practice allows one to follow these strands of light from pane to pane, observing how the outcome of physical reality evolves with each choice made of free will. While direct weaving of the connecting fabric is usually impossible to achieve, indirect manipulation is feasible by machination in the corporeal plane where the reflection of the arcane plane is strongest. The ability of a Sylph to locate these ‘reflection pools’ and steer them is one of her greatest — and most feared — abilities.
+[Gryphon]
+tag:Gryphon;Fly;Melee
+These majestic and powerful creatures are masters of the sky. Gryphons are both dangerous and wary of other intelligent creatures, and thus should not be disturbed without a good reason.
+[Cavalier]
+tag:Cavalry;Human;Melee
+Cavaliers are masters at the use of both sword and crossbow from horseback. Their combination of striking power and mobility is fearsome, and they have a reputation for dash and aggressiveness to match it. The daring deeds of Cavaliers are the subject of many a tale and song.
+[Master at Arms]
+tag:Fast;Human;Melee
+Master fencers have an envied place in life. Though the journey to their station was a dangerous way of life, they have reached the time wherein they reap its rewards. Famed for their skill and dashing manner, these gentlemen have the bearing of natural aristocrats, and are followed by the eyes of many a high born lady.
+They usually have the luxury of choosing their appointments, and are free to roam the land should they so elect. Often, they will be found as the captains of a castle guard, or as the master of a military academy, positions in which their flamboyant nature is not only accepted, but is perhaps even useful.
